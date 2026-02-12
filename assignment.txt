@@ -1,0 +1,134 @@
+🔹 Algorithm (Plain English)
+
+Start
+
+Read Principal
+
+Read Rate
+
+Read Time
+
+Calculate Simple Interest = (Principal × Rate × Time) / 100
+
+Display Simple Interest
+
+End
+
+🔹 Pseudocode
+START  
+INPUT principal  
+INPUT rate  
+INPUT time  
+simpleInterest ← (principal * rate * time) / 100  
+OUTPUT simpleInterest  
+END
+
+
+✅ Question 2: Temperature Converter (Celsius to Fahrenheit)
+🔹 Algorithm (Plain English)
+
+Start
+
+Read temperature in Celsius
+
+Convert to Fahrenheit using formula
+
+Display Fahrenheit
+
+End
+
+🔹 Pseudocode
+START  
+INPUT celsius  
+fahrenheit ← (celsius * 9 / 5) + 32  
+OUTPUT fahrenheit  
+END
+
+
+✅ Question 3: Area and Perimeter of a Rectangle
+🔹 Algorithm (Plain English)
+
+Start
+
+Read length
+
+Read width
+
+Calculate Area = length × width
+
+Calculate Perimeter = 2 × (length + width)
+
+Display Area and Perimeter
+
+End
+
+🔹 Pseudocode
+START  
+INPUT length  
+INPUT width  
+area ← length * width  
+perimeter ← 2 * (length + width)  
+OUTPUT area  
+OUTPUT perimeter  
+END
+
+
+
+PART B: DECISION MAKING
+✅ Question 4: Even or Odd
+🔹 Algorithm (Plain English)
+
+Start
+
+Read number
+
+If number modulo 2 equals 0
+
+Display “Even”
+
+Else
+
+Display “Odd”
+
+End
+
+🔹 Pseudocode
+START  
+INPUT number  
+IF number MOD 2 = 0 THEN  
+    OUTPUT "Even"  
+ELSE  
+    OUTPUT "Odd"  
+END IF  
+END
+
+
+✅ Question 5: Pass or Fail
+🔹 Algorithm (Plain English)
+
+Start
+
+Read mark
+
+If mark ≥ 50
+
+Display “Pass”
+
+Else
+
+Display “Fail”
+
+End
+
+🔹 Pseudocode
+START  
+INPUT mark  
+IF mark >= 50 THEN  
+    OUTPUT "Pass"  
+ELSE  
+    OUTPUT "Fail"  
+END IF  
+END
+
+
+
