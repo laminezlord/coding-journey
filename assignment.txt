@@ -24,7 +24,7 @@ OUTPUT simpleInterest
 END
 
 
-✅ Question 2: Temperature Converter (Celsius to Fahrenheit)
+ Question 2: Temperature Converter (Celsius to Fahrenheit)
 🔹 Algorithm (Plain English)
 
 Start
@@ -45,7 +45,7 @@ OUTPUT fahrenheit
 END
 
 
-✅ Question 3: Area and Perimeter of a Rectangle
+ Question 3: Area and Perimeter of a Rectangle
 🔹 Algorithm (Plain English)
 
 Start
@@ -75,7 +75,7 @@ END
 
 
 PART B: DECISION MAKING
-✅ Question 4: Even or Odd
+ Question 4: Even or Odd
 🔹 Algorithm (Plain English)
 
 Start
@@ -103,7 +103,7 @@ END IF
 END
 
 
-✅ Question 5: Pass or Fail
+ Question 5: Pass or Fail
 🔹 Algorithm (Plain English)
 
 Start
@@ -129,6 +129,7 @@ ELSE
     OUTPUT "Fail"  
 END IF  
 END
+
 
 
 
