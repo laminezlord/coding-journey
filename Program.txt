@@ -1,0 +1,195 @@
+Section A
+
+1. What is a computer? (Input–Process–Output)
+A computer is an electronic device that receives input, processes the data, and produces output.
+Example:
+
+Input: typing numbers
+
+Process: calculating
+
+Output: showing the answer on the screen
+
+2. Why a computer is not only a laptop/desktop (3 examples)
+A computer is any device that takes input, processes it, and gives output.
+Examples:
+
+ATM – input: card & PIN, process: bank transaction, output: cash/receipt
+
+Smart TV – input: remote control, process: apps/videos, output: display & sound
+
+Washing Machine – input: buttons, process: wash program, output: clean clothes
+
+3. Is a smartphone a computer?
+Yes, a smartphone is a computer.
+
+Input: touchscreen, microphone, camera
+
+Output: screen, speaker
+
+Processing unit: CPU inside the phone
+
+Storage: internal memory (ROM, storage card)
+
+Section B
+
+4. What is a computer system?
+A computer system is a complete set of components that work together to perform tasks.
+
+Hardware: phone, keyboard
+
+Software: Android, Windows
+
+Data: photos, documents
+
+Users: people using the device
+
+5. Role of the CPU (“brain” of the computer)
+The CPU processes all instructions and controls other parts of the computer.
+It is called the brain because it thinks, decides, and controls operations.
+
+6. RAM vs Storage (real-life analogy)
+
+RAM: temporary memory (like the table you work on)
+
+Storage: permanent memory (like a cupboard)
+
+RAM is fast and clears when power is off.
+Storage keeps data even when power is off.
+
+7a. Hardware without software
+The computer will not work. It is just useless parts.
+
+7b. Software without hardware
+The software cannot run. It is just ideas without a machine.
+
+Section C: Software and Programs
+
+8. What is software?
+Software is a set of programs that tell the computer what to do.
+It is essential because hardware cannot work by itself.
+
+9. What is a program? (Tea example)
+A program is a set of instructions to perform a task.
+
+Plain English program to make tea:
+
+Boil water
+
+Put tea bag in cup
+
+Pour hot water
+
+Add sugar and milk
+
+Stir and drink
+
+10. “Fast but stupid”
+Computers are fast at processing but cannot think.
+They only do exactly what the programmer tells them to do.
+
+Section D: Programming and Languages
+
+11. What is programming?
+Programming is writing instructions for a computer to follow.
+Using a computer is just operating software made by others.
+
+12. Early programming & why inefficient
+Early computers were programmed using machine language and switches.
+It was slow, error-prone, and hard to understand.
+
+13. Machine language
+Machine language is binary (0s and 1s).
+It is difficult because humans do not easily understand binary numbers.
+
+14. Assembly language
+Assembly uses simple words like ADD and MOV instead of 0s and 1s.
+It made programming easier than machine language but still hardware-dependent.
+
+Section E: High-Level Languages, Compilers, Interpreters
+
+16. High-level languages
+High-level languages are human-friendly languages like Python and JavaScript.
+They were developed to make programming easier and faster.
+
+17. Comparison
+
+Feature	Machine	Assembly	High-Level
+Readability	Very poor	Poor	Easy
+Ease of use	Very hard	Hard	Easy
+Hardware dependent	Yes	Yes	No
+
+19. Compiler (analogy)
+A compiler translates the whole program at once before running.
+Analogy: translating a whole book before reading it.
+
+20. Interpreter
+An interpreter translates and runs the program line by line.
+Difference: Compiler translates everything first, interpreter works line by line.
+
+21. JavaScript as interpreted
+JavaScript runs line by line in the browser.
+This means it runs immediately without full compilation first.
+
+Section F: Evolution & Big Picture
+
+22. Evolution of programming languages
+Programming moved from machine language → assembly → high-level languages like C, Java, Python, JavaScript.
+
+23. Why languages evolve (2 reasons)
+
+To make coding easier for humans
+
+To handle new technology and devices
+
+Section G: Software Engineering
+
+24. What is engineering?
+Engineering is solving problems using planning and design.
+It is different from trial-and-error because it follows a structured approach.
+
+25. Software engineering & importance
+Software engineering is building software using proper methods and planning.
+It is important for large systems to avoid failure and errors.
+
+Difference:
+
+Software development: writing programs
+
+Software engineering: planning, designing, testing, maintaining large systems
+
+Example:
+A small calculator app = development
+A banking system = software engineering
+
+Section H: Critical Thinking
+
+26. World without software
+Phones, banks, hospitals, and transport would stop working.
+Daily life would become slow and manual.
+
+27. Devices becoming computers
+I agree. Phones, cars, TVs, and even fridges now use software to work.
+
+28. Who is responsible when software fails?
+The programmer is responsible because the computer only follows instructions.
+
+Section I: Practical Observation
+
+29. Example: Smartphone
+
+Input: touch, voice
+
+Processing: CPU
+
+Output: screen, speaker
+
+Software: Android, apps
+
+30. Three daily software apps
+
+WhatsApp – communication
+
+Google Chrome – browsing
+
+Calculator – calculations
